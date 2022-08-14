@@ -1,0 +1,28 @@
+// Customise bootstrap 
+$primary: rgb(235, 151, 63);
+$secondary: rgb(4, 4, 4);
+$success: #08d84d;
+$info: #1fc0d8;
+$danger: #d43257;
+$warning: #f0b208;
+
+$dark: #222;
+$light: #fff;
+
+$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+  "success": $success,
+  "info": $info,
+  "warning": $warning,
+  "danger": $danger,
+  "light": $light,
+  "dark": $dark
+);
+
+
+// Bootstrap import
+@import "bootstrap/scss/bootstrap";
+
+
+/* Override below */
