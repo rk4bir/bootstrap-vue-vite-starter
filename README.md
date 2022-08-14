@@ -4,6 +4,9 @@ yarn install    # or npm install
 yarn dev        # or npm run dev
 ```
 
+## Successfully setup project will look like this - 
+![](./public/project-setup.png)
+
 
 # Bootstrap theme
 Update your variable and adjust stuffs as needed.
