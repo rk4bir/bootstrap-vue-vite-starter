@@ -1,3 +1,6 @@
+# Bootstrap + Vue3 + Vite Starter Template
+> Bootstrap 5, Vue 3, and Vite
+
 # Setup
 ```bash
 yarn install    # or npm install
