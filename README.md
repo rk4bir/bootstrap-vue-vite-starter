@@ -1,4 +1,4 @@
-# Bootstrap + Vue3 + Vite Starter Template
+# Bootstrap + Vue + Vite Starter Template
 > Bootstrap 5, Vue 3, and Vite
 
 # Setup
